@@ -1,0 +1,12 @@
+/Users/macbook/Projects/NadjafHomeWork/NadjafHomeWork/bin/Debug/netcoreapp3.1/NadjafHomeWork.deps.json
+/Users/macbook/Projects/NadjafHomeWork/NadjafHomeWork/bin/Debug/netcoreapp3.1/NadjafHomeWork.runtimeconfig.json
+/Users/macbook/Projects/NadjafHomeWork/NadjafHomeWork/bin/Debug/netcoreapp3.1/NadjafHomeWork.runtimeconfig.dev.json
+/Users/macbook/Projects/NadjafHomeWork/NadjafHomeWork/bin/Debug/netcoreapp3.1/NadjafHomeWork.dll
+/Users/macbook/Projects/NadjafHomeWork/NadjafHomeWork/bin/Debug/netcoreapp3.1/NadjafHomeWork.pdb
+/Users/macbook/Projects/NadjafHomeWork/NadjafHomeWork/obj/Debug/netcoreapp3.1/NadjafHomeWork.csprojAssemblyReference.cache
+/Users/macbook/Projects/NadjafHomeWork/NadjafHomeWork/obj/Debug/netcoreapp3.1/NadjafHomeWork.AssemblyInfoInputs.cache
+/Users/macbook/Projects/NadjafHomeWork/NadjafHomeWork/obj/Debug/netcoreapp3.1/NadjafHomeWork.AssemblyInfo.cs
+/Users/macbook/Projects/NadjafHomeWork/NadjafHomeWork/obj/Debug/netcoreapp3.1/NadjafHomeWork.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/NadjafHomeWork/NadjafHomeWork/obj/Debug/netcoreapp3.1/NadjafHomeWork.dll
+/Users/macbook/Projects/NadjafHomeWork/NadjafHomeWork/obj/Debug/netcoreapp3.1/NadjafHomeWork.pdb
+/Users/macbook/Projects/NadjafHomeWork/NadjafHomeWork/obj/Debug/netcoreapp3.1/NadjafHomeWork.genruntimeconfig.cache
