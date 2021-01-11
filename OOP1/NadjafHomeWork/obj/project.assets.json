@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ТТТ\\Desktop\\HW\\Homework\\OOP\\NadjafHomeWork\\NadjafHomeWork.csproj",
+      "projectUniqueName": "C:\\Users\\ТТТ\\Desktop\\HW\\Homework\\OOP1\\NadjafHomeWork\\NadjafHomeWork.csproj",
       "projectName": "NadjafHomeWork",
-      "projectPath": "C:\\Users\\ТТТ\\Desktop\\HW\\Homework\\OOP\\NadjafHomeWork\\NadjafHomeWork.csproj",
+      "projectPath": "C:\\Users\\ТТТ\\Desktop\\HW\\Homework\\OOP1\\NadjafHomeWork\\NadjafHomeWork.csproj",
       "packagesPath": "C:\\Users\\ТТТ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ТТТ\\Desktop\\HW\\Homework\\OOP\\NadjafHomeWork\\obj\\",
+      "outputPath": "C:\\Users\\ТТТ\\Desktop\\HW\\Homework\\OOP1\\NadjafHomeWork\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ТТТ\\AppData\\Roaming\\NuGet\\NuGet.Config",
